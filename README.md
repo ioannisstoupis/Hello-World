@@ -1,6 +1,6 @@
 # Hello-World
 
-My personal repository for projects on:
+My personal repository for projects on Business Analytics using data analytics tools such as:
 1_Excel VBA
 2_SQL
 3_Python
