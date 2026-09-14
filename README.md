@@ -10,8 +10,8 @@
 • Common Tools: Power BI, Tableau, and Looker.
 
 ## 2. Data Analytics
-/• Core Focus: Uncovering deep patterns and forecasting future results.
-/• Primary Question: "What will happen next?" and "Why did it happen?"
+<p>• Core Focus: Uncovering deep patterns and forecasting future results.</p>
+<p>• Primary Question: "What will happen next?" and "Why did it happen?"</p>
 • Key Tasks: Statistical modeling, machine learning, predictive analysis, and data mining.
 • Common Tools: Python, R, SQL, and advanced Excel.
 
