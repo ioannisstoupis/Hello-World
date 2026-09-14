@@ -21,9 +21,9 @@
 <p>• Growth: Combining both systems gives companies a complete view of current efficiency and future opportunities.</p>
 
 # Personal Statement
-<p>Approach forecasting from the vantage point of <strong>*"Financial Architecture and Operational Design"*</strong>.</p>
+<p>Approach forecasting from the vantage point of <strong><em>"Financial Architecture and Operational Design"</em></strong>.</p>
 <p>Have worked across complex organisational environments where planning processes had become disconnected from the decisions they were meant to inform.</p>
-<p>My strength lies in bridging <strong>*financial reporting and operational reality*</strong>.</p>
+<p>My strength lies in bridging <strong><em>financial reporting and operational reality</em></strong>.</p>
 <p>My focus is on building structured, sustainable systems, the kind that make organisations more predictable, and their leadership teams more confident.</p>
 
 
