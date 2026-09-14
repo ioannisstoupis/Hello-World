@@ -4,21 +4,21 @@
 2. Data analytics uses advanced techniques to predict future trends and outcomes.
 
 ## 1. Business Intelligence (BI)
-• Core Focus: Monitoring current and historical operations.
-• Primary Question: "What happened?" and "What is happening now?"
-• Key Tasks: Generating reports, tracking key performance indicators (KPIs), and building real-time dashboards
-• Common Tools: Power BI, Tableau, and Looker.
+<p>• Core Focus: Monitoring current and historical operations.</p>
+<p>• Primary Question: "What happened?" and "What is happening now?"</p>
+<p>• Key Tasks: Generating reports, tracking key performance indicators (KPIs), and building real-time dashboards.</p>
+<p>• Common Tools: Power BI, Tableau, and Looker.</p>
 
 ## 2. Data Analytics
 <p>• Core Focus: Uncovering deep patterns and forecasting future results.</p>
 <p>• Primary Question: "What will happen next?" and "Why did it happen?"</p>
-• Key Tasks: Statistical modeling, machine learning, predictive analysis, and data mining.
-• Common Tools: Python, R, SQL, and advanced Excel.
+<p>• Key Tasks: Statistical modeling, machine learning, predictive analysis, and data mining.</p>
+<p>• Common Tools: Python, R, SQL, and advanced Excel.</p>
 
 ## How They Work Together
-• Operations: BI manages daily performance tracking and immediate needs
-• Strategy: Data analytics uses predictive models to prepare the business for tomorrow.
-• Growth: Combining both systems gives companies a complete view of current efficiency and future opportunities.
+<p>• Operations: BI manages daily performance tracking and immediate needs.</p>
+<p>• Strategy: Data analytics uses predictive models to prepare the business for tomorrow.</p>
+<p>• Growth: Combining both systems gives companies a complete view of current efficiency and future opportunities.</p>
 
 # Personal Statement
 Approach forecasting from the vantage point of ***"Financial Architecture and Operational Design"***.
