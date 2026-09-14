@@ -29,4 +29,4 @@
 <p>Business Intelligence (BI) is the financial architecture layer (what happened, what's happening, what it costs), and Data Analytics is the operational design layer (why it happened, what will happen, what to do about it). They're not separate systems — they're the two halves of the same model, connected at specific integration points.</p>
 
 
-### This repository is a work in progress. A growing collection of work that reflects my expanding skills and technical toolkit. Continuously updated to feature more advanced languages and development practices.
+### This repository is a work in progress. A growing collection of work that reflects my expanding skills and technical toolkit. Continuously updated to feature more advanced languages and development practices. These projects will evolve as I master new programming languages and technologies. As my coding journey continues, I’ll be rewriting and improving these apps.
