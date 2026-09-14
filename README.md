@@ -1,6 +1,6 @@
 # Business Intelligence & Data Analytics
 
-1. Business intelligence (BI) focuses on tracking past and current data to understand what happened.`
+1. Business intelligence (BI) focuses on tracking past and current data to understand what happened.
 2. Data analytics uses advanced techniques to predict future trends and outcomes.
 
 ## 1. Business Intelligence (BI)
