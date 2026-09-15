@@ -1,33 +1,48 @@
-# Business Intelligence & Data Analytics
+# Financial Architecture & Operational Design
+*Quantitative Research | Financial Analytics | Web App Development*
 
-1. Business intelligence (BI) focuses on tracking past and current data to understand what happened.
-2. Data analytics uses advanced techniques to predict future trends and outcomes.
+I approach business forecasting and quantitative modeling from the intersection of Financial Architecture (what happened, what it costs) and Operational Design (why it happened, what to do next).
 
-## 1. Business Intelligence (BI)
-<p>• Core Focus: Monitoring current and historical operations.</p>
-<p>• Primary Question: "What happened?" and "What is happening now?"</p>
-<p>• Key Tasks: Generating reports, tracking key performance indicators (KPIs), and building real-time dashboards.</p>
-<p>• Common Tools: Power BI, Tableau, and Looker.</p>
+Having worked in complex organizational environments where planning processes often disconnect from operational reality, I build structured, sustainable systems that make business outcomes predictable and give leadership teams confidence.
 
-## 2. Data Analytics
-<p>• Core Focus: Uncovering deep patterns and forecasting future results.</p>
-<p>• Primary Question: "What will happen next?" and "Why did it happen?"</p>
-<p>• Key Tasks: Statistical modeling, machine learning, predictive analysis, and data mining.</p>
-<p>• Common Tools: Python, R, SQL, and advanced Excel.</p>
+## Core Framework: The Unified Model
+I don't treat Business Intelligence and Advanced Analytics as separate silos—they are the two halves of a single decision engine connected at critical integration points:
 
-## How They Work Together
-<p>• Operations: BI manages daily performance tracking and immediate needs.</p>
-<p>• Strategy: Data analytics uses predictive models to prepare the business for tomorrow.</p>
-<p>• Growth: Combining both systems gives companies a complete view of current efficiency and future opportunities.</p>
+┌───────────────────────────────────────────────────────────────────┐
+│                       DECISION ENGINE MODEL                       │
+├─────────────────────────────────┬─────────────────────────────────┤
+│    BUSINESS INTELLIGENCE        │    QUANTITATIVE & DATA ANALYTICS│
+│   (Financial Architecture)      │      (Operational Design)       │
+├─────────────────────────────────┼─────────────────────────────────┤
+│  • What happened & what it costs│  • Why did it happen?           │
+│  • Historical & real-time KPIs  │  • Cohort, LTV & CAC dynamics   │
+│  • Reporting & Dashboards       │  • Predictive trends & Pricing  │
+└─────────────────────────────────┴─────────────────────────────────┘
 
-# Personal Statement
-<p>Approach forecasting from the vantage point of <strong><em>"Financial Architecture and Operational Design"</em></strong>.</p>
-<p>Have worked across complex organisational environments where planning processes had become disconnected from the decisions they were meant to inform.</p>
-<p>My strength lies in bridging <strong><em>financial reporting and operational reality</em></strong>.</p>
-<p>My focus is on building structured, sustainable systems, the kind that make organisations more predictable, and their leadership teams more confident.</p>
+## Technical Toolkit & Expertise
+Quantitative & Business Research: Cohort Analysis, Unit Economics (LTV, CAC, ROI), Price Elasticity & Demand Modeling, Investment Valuation, Budget & Financial Statement Analysis.
 
-<p>Business Intelligence (BI) is the financial architecture layer (what happened, what's happening, what it costs), and Data Analytics is the operational design layer (why it happened, what will happen, what to do about it). They're not separate systems — they're the two halves of the same model, connected at specific integration points.</p>
+• Data Science & Analytics: Python, R, SQL, Statistical Modeling, Machine Learning Foundations, Google Analytics.
 
+• Web & DSS Development: JavaScript, Python (Flask/Streamlit/Dash), Building Interactive Decision Support Systems (DSS), Advanced Excel.
 
-### This repository is a work in progress.
-A growing collection of work that reflects my expanding skills and technical toolkit. Continuously updated to feature more advanced languages and development practices. These projects will evolve as I master new programming languages and technologies. As my coding journey continues, I’ll be rewriting and improving these apps.
+• BI Platform Engineering: Power BI, Tableau, Looker.
+
+## Target Roles & Applied Focus
+I focus on building end-to-end analytical solutions and dynamic applications in areas including:
+
+• Quantitative Research Analytics: Elasticity modeling, price optimization, cohort retention, and customer unit economics.
+
+• Decision Support Web Apps: Interactive JS and Python web applications designed to translate complex financial/statistical models into practical UI for business leaders.
+
+• Integrated Financial Frameworks: Merging micro/macroeconomic principles with statistical forecasting for robust corporate planning.
+
+## A Work in Progress: Code & Evolution
+This repository is a growing portfolio of my work, technical evolution, and project iterations:
+
+• Continuous Improvement: My projects evolve as I expand my proficiency in JavaScript, Python, and R.
+
+• Refactoring & Modernization: I actively refactor legacy scripts and Excel models into scalable web applications and analytical scripts.
+
+• Open Science: Expect frequent updates as I explore advanced machine learning methods, web technologies, and software engineering practices.
+
