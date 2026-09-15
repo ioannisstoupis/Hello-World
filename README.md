@@ -1,11 +1,16 @@
-# Financial Architecture & Operational Design
+# Hi, I’m Ioannis
+
+### **Financial Architecture & Operational Design**
 *Quantitative Research | Financial Analytics | Web App Development*
 
-I approach business forecasting and quantitative modeling from the intersection of Financial Architecture (what happened, what it costs) and Operational Design (why it happened, what to do next).
+I approach business forecasting, quantitative modeling, and risk analysis from the intersection of **Financial Architecture** (what happened, what it costs) and **Operational Design** (why it happened, what to do next). 
 
 Having worked in complex organizational environments where planning processes often disconnect from operational reality, I build structured, sustainable systems that make business outcomes predictable and give leadership teams confidence.
 
-## Core Framework: The Unified Model
+---
+
+### **Core Framework: The Unified Model**
+
 I don't treat Business Intelligence and Advanced Analytics as separate silos—they are the two halves of a single decision engine connected at critical integration points:
 
 ```text
@@ -21,30 +26,36 @@ I don't treat Business Intelligence and Advanced Analytics as separate silos—t
 └─────────────────────────────────┴─────────────────────────────────┘
 ```
 
-## Technical Toolkit & Expertise
-Quantitative & Business Research: Cohort Analysis, Unit Economics (LTV, CAC, ROI), Price Elasticity & Demand Modeling, Investment Valuation, Budget & Financial Statement Analysis.
+---
 
-• Data Science & Analytics: Python, R, SQL, Statistical Modeling, Machine Learning Foundations, Google Analytics.
+### **Technical Toolkit & Domain Expertise**
 
-• Web & DSS Development: JavaScript, Python (Flask/Streamlit/Dash), Building Interactive Decision Support Systems (DSS), Advanced Excel.
+* **Quantitative Research & Financial Modeling:** Unit Economics (LTV, CAC, ROI), Cohort Analysis, Price Elasticity & Demand Modeling, Budget & Financial Statement Analysis, Corporate Valuation.
+* **Capital Markets & Algorithmic Concepts:** Retail Stock Market Trading, Quantitative Strategy Evaluation (Mean Reversion, Trend Following), Risk Management & Drawdown Analysis.
+* **Open Source Intelligence (OSINT) & Data Mining:** Advanced Search Operators (Dorks), Domain/Network Intelligence (WHOIS, RIPE Database, Reverse IP Lookups), Business & Corporate Directory Enrichment.
+* **Data Science & Programming:** Python, R, SQL, JavaScript (Web App Development), Statistical Analysis, Machine Learning Foundations, Google Analytics.
+* **BI Platform Engineering:** Power BI, Tableau, Looker, Advanced Excel/VBA.
 
-• BI Platform Engineering: Power BI, Tableau, Looker.
+---
 
-## Target Roles & Applied Focus
-I focus on building end-to-end analytical solutions and dynamic applications in areas including:
+### **Target Roles & Applied Focus**
 
-• Quantitative Research Analytics: Elasticity modeling, price optimization, cohort retention, and customer unit economics.
+I focus on building end-to-end analytical tools and dynamic applications across:
 
-• Decision Support Web Apps: Interactive JS and Python web applications designed to translate complex financial/statistical models into practical UI for business leaders.
+* **Quantitative Research & Analytics:** Elasticity modeling, price optimization, cohort retention analysis, and financial performance modeling.
+* **Decision Support Web Applications:** Interactive JavaScript/Python web applications built to translate complex quantitative models into operational interfaces.
+* **OSINT & Market Intelligence Pipelines:** Automated data ingestion, corporate intelligence extraction, and open-source data validation for market research.
 
-• Integrated Financial Frameworks: Merging micro/macroeconomic principles with statistical forecasting for robust corporate planning.
+---
 
-## A Work in Progress: Code & Evolution
-This repository is a growing portfolio of my work, technical evolution, and project iterations:
+### **Continuous Improvement & Repository Evolution**
 
-• Continuous Improvement: My projects evolve as I expand my proficiency in JavaScript, Python, and R.
+This GitHub profile serves as a live engineering portfolio:
 
-• Refactoring & Modernization: I actively refactor legacy scripts and Excel models into scalable web applications and analytical scripts.
+* **Script-to-App Refactoring:** Converting standalone Python/R research scripts into interactive, modular web apps.
+* **Open Source Exploration:** Building production-grade algorithms for financial research, web intelligence, and market analysis.
+* **Ongoing Skills Development:** Continuously sharpening execution in JavaScript, Python, R, and modern web frameworks.
 
-• Open Science: Expect frequent updates as I explore advanced machine learning methods, web technologies, and software engineering practices.
+---
 
+📫 **Let's Connect:** [LinkedIn Profile] | [Email Address] | [Personal Website/Portfolio]
