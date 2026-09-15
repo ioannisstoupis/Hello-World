@@ -3,13 +3,19 @@
 ### **Financial Architecture & Operational Design**
 *Quantitative Research | Financial Analytics | Web App Development*
 
-I approach business forecasting, quantitative modeling, and risk analysis from the intersection of **Financial Architecture** (what happened, what it costs) and **Operational Design** (why it happened, what to do next). 
+I approach business forecasting and quantitative modeling by bridging *Financial Architecture* — the underlying structural data, cost foundations, and reporting baselines—with *Operational Design* — the predictive logic, behavioral drivers, and decision models that dictate what to do next.
 
 Having worked in complex organizational environments where planning processes often disconnect from operational reality, I build structured, sustainable systems that make business outcomes predictable and give leadership teams confidence.
 
 ---
 
 ### **Core Framework: The Unified Model**
+
+* Financial Architecture = The Infrastructure (Data & Controls)
+It creates the structural layer—chart of accounts, ledger models, data integration points, cost accounting, and reporting pipelines. It defines what is, what happened, and what it costs. It provides the bedrock of truth.
+
+* Operational Design = The Engine (Dynamics & Strategy)
+It governs how the business actually functions—process flows, customer cohorts, demand elasticity, capacity allocation, and predictive modeling. It decides why events happen and what actions to take next.
 
 I don't treat Business Intelligence and Advanced Analytics as separate silos—they are the two halves of a single decision engine connected at critical integration points:
 
@@ -20,9 +26,9 @@ I don't treat Business Intelligence and Advanced Analytics as separate silos—t
 │    BUSINESS INTELLIGENCE        │    QUANTITATIVE & DATA ANALYTICS│
 │   (Financial Architecture)      │      (Operational Design)       │
 ├─────────────────────────────────┼─────────────────────────────────┤
-│  • What happened & what it costs│  • Why did it happen?           │
+│  • System of Record & Metrics   │  • System of Action & Foresight │
 │  • Historical & real-time KPIs  │  • Cohort, LTV & CAC dynamics   │
-│  • Reporting & Dashboards       │  • Predictive trends & Pricing  │
+│  • Cost structures & baselines  │  • Predictive trends & Pricing  │
 └─────────────────────────────────┴─────────────────────────────────┘
 ```
 
