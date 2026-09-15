@@ -8,6 +8,7 @@ Having worked in complex organizational environments where planning processes of
 ## Core Framework: The Unified Model
 I don't treat Business Intelligence and Advanced Analytics as separate silos—they are the two halves of a single decision engine connected at critical integration points:
 
+```text
 ┌───────────────────────────────────────────────────────────────────┐
 │                       DECISION ENGINE MODEL                       │
 ├─────────────────────────────────┬─────────────────────────────────┤
@@ -18,6 +19,7 @@ I don't treat Business Intelligence and Advanced Analytics as separate silos—t
 │  • Historical & real-time KPIs  │  • Cohort, LTV & CAC dynamics   │
 │  • Reporting & Dashboards       │  • Predictive trends & Pricing  │
 └─────────────────────────────────┴─────────────────────────────────┘
+```
 
 ## Technical Toolkit & Expertise
 Quantitative & Business Research: Cohort Analysis, Unit Economics (LTV, CAC, ROI), Price Elasticity & Demand Modeling, Investment Valuation, Budget & Financial Statement Analysis.
