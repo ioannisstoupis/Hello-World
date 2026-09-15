@@ -3,7 +3,7 @@
 ### **Financial Architecture & Operational Design**
 *Quantitative Research | Financial Analytics | Web App Development*
 
-I approach business forecasting and quantitative modeling by bridging *Financial Architecture* — the underlying structural data, cost foundations, and reporting baselines—with *Operational Design* — the predictive logic, behavioral drivers, and decision models that dictate what to do next.
+I approach business forecasting and quantitative modeling by bridging *Financial Architecture* — the underlying structural data, cost foundations, and reporting baselines — with *Operational Design* — the predictive logic, behavioral drivers, and decision models that dictate what to do next.
 
 Having worked in complex organizational environments where planning processes often disconnect from operational reality, I build structured, sustainable systems that make business outcomes predictable and give leadership teams confidence.
 
