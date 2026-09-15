@@ -72,8 +72,3 @@ This portfolio is continuously evolving:
 * Ongoing Skills Development: Continuously sharpening execution in JavaScript, Python, R, and modern web frameworks.
 
 📬 Let's Connect
-* LinkedIn: [Your LinkedIn Profile URL]
-
-* Email: [Your Professional Email]
-
-* Portfolio: [Your Personal Portfolio / Website Link]
