@@ -1,4 +1,4 @@
-# Hi, I’m Ioannis 👋
+# Hi, I’m Ioannis
 
 ### **Data Verification Administrator**
 *Quantitative Research | Financial Analytics | Web App Development*
