@@ -49,7 +49,6 @@ In both operational administration and quantitative research, models are only as
 
 ### 🛠️ Technical Toolkit & Domain Expertise
 * Data Governance & Integrity: Data Profiling, Automated Validation Rules, Source-Document Cross-Checking, Data Cleansing & Anomaly Detection.
-
 * Quantitative Research & Financial Modeling: Unit Economics (LTV, CAC, ROI), Cohort Analysis, Price Elasticity & Demand Modeling, Budget Analysis, Corporate Valuation.
 * Capital Markets & Algorithmic Concepts: Retail Stock Market Trading, Quantitative Strategy Evaluation (Mean Reversion, Trend Following), Risk Management & Drawdown Analysis.
 * Open Source Intelligence (OSINT) & Data Mining: Advanced Search Operators (Dorks), Domain/Network Intelligence (WHOIS, RIPE Database, Reverse IP Lookups), Corporate Directory Enrichment.
